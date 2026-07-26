@@ -17,7 +17,7 @@
 I work at the intersection of applied mathematics, scientific computing,
 and data-driven modeling. I am particularly interested in developing
 reproducible computational tools and combining mathematics with computation
-to solve real-world problems in biology—from large-scale scientific
+to solve real-world problems in biology, from large-scale scientific
 simulations to biomedical image analysis.
 
 ## Featured Work
