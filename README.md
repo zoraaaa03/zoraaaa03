@@ -45,10 +45,10 @@ adds persistent protection for scientifically important checkpoints.
 **Technologies:** C++17, MPI-aware file management, SAMRAI, Git,
 regression testing
 
-### Retinal Vascular Network Development — STOR 674
+### Retinal Vascular Network Development 
 
 [This team project](https://github.com/YGAO0114/STOR674-Final-Project)
-was completed for Statistical Computing (STOR 674) at UNC-Chapel Hill.
+was completed for course STOR 674, Tools for Reproducible Data Science at UNC-Chapel Hill.
 It develops a reproducible computational pipeline for studying mouse
 retinal vascular development through:
 
