@@ -72,28 +72,6 @@ Related merged contributions:
 **Project stack:** Python, pandas, NumPy, SciPy, scikit-learn,
 Matplotlib, pytest, PyTorch, nnU-Net, NetworkX, Jupyter
 
-### Census Income Classification Capstone
-
-[This capstone project](https://github.com/zoraaaa03/BTT-Capstone)
-follows the full machine learning life cycle to predict whether an
-individual's annual income exceeds $50,000 using the Census Income dataset.
-
-The project includes:
-
-- Exploratory data analysis and fairness-aware feature selection
-- Missing-value imputation, feature scaling, and one-hot encoding
-- Tuned logistic regression with five-fold cross-validation
-- A feedforward neural network and side-by-side error analysis
-
-The tuned logistic regression achieved 0.8055 accuracy and a 0.6775 F1 score,
-while the neural network achieved 0.8572 accuracy and a 0.6839 F1 score. The
-analysis also examines class imbalance, underrepresented groups, proxy
-variables, and the consequences of using model predictions in financial
-program eligibility workflows.
-
-**Project stack:** Python, pandas, NumPy, scikit-learn, TensorFlow/Keras,
-Matplotlib, Seaborn, Jupyter
-
 ## Research Code Availability
 
 Additional repositories associated with manuscripts are currently private
