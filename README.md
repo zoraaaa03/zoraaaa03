@@ -76,6 +76,4 @@ during manuscript preparation and review. Code and reproducibility materials
 will be released once publication, data-use, and collaborator permissions allow.
 
 ## Contact
-
-- [LinkedIn](http://www.linkedin.com/in/meihanc)
 - [Email](mailto:meihanchen03@gmail.com)
