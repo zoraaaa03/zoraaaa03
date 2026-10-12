@@ -9,8 +9,6 @@
 
   **Data Science & Applied Mathematics at UNC-Chapel Hill**
 
-  [Personal Website](https://zoraaaa03.github.io/) 
-
   Scientific Computing · Applied Mathematics · Biomedical Data Science
 </div>
 
