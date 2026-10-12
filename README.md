@@ -9,7 +9,7 @@
 
   **Data Science & Applied Mathematics at UNC-Chapel Hill**
 
-  Scientific Computing · Applied Mathematics · Biomedical Data Science
+  Scientific Computing · Applied Mathematics · Computational Biology
 </div>
 
 ## About Me
