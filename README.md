@@ -42,8 +42,7 @@ My follow-up
 [PR #1911](https://github.com/IBAMR/IBAMR/pull/1911)
 adds persistent protection for scientifically important checkpoints.
 
-**Technologies:** C++17, MPI-aware file management, SAMRAI, Git,
-regression testing
+**Technologies:** C++17, MPI-aware file management, SAMRAI, Git
 
 ### Retinal Vascular Network Development 
 
